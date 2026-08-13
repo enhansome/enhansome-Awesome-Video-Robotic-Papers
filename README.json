@@ -1,0 +1,393 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-27T09:00:35Z",
+                "owner": "sarthak268",
+                "repo": "nesca-pytorch",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-12-16T00:00:40Z",
+                "owner": "kuanfang",
+                "repo": "flap",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2026-07-30T21:38:00Z",
+                "owner": "facebookresearch",
+                "repo": "vip",
+                "stars": 187
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-10T23:14:13Z",
+                "owner": "rail-berkeley",
+                "repo": "soar",
+                "stars": 77
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Octo: An Open-Source Generalist Robot Policy",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-31T00:26:15Z",
+                "owner": "octo-models",
+                "repo": "octo",
+                "stars": 1736
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HRP: Human Affordances for Robotic Pre-Training",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-18T04:14:55Z",
+                "owner": "SudeepDasari",
+                "repo": "data4robotics",
+                "stars": 77
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-30T08:35:00Z",
+                "owner": "yxKryptonite",
+                "repo": "RAM_code",
+                "stars": 101
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-23T23:41:01Z",
+                "owner": "openvla",
+                "repo": "openvla",
+                "stars": 6821
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Video Language Planning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-23T20:26:16Z",
+                "owner": "video-language-planning",
+                "repo": "vlp_code",
+                "stars": 83
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dreamitate: Real-World Visuomotor Policy Learning via Video Generation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-07T00:19:48Z",
+                "owner": "cvlab-columbia",
+                "repo": "dreamitate",
+                "stars": 59
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-22T01:42:06Z",
+                "owner": "bytedance",
+                "repo": "GR-1",
+                "stars": 310
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-14T01:44:38Z",
+                "owner": "real-stanford",
+                "repo": "maniwav",
+                "stars": 67
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning to Act from Actionless Videos through Dense Correspondences",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-25T16:03:13Z",
+                "owner": "flow-diffusion",
+                "repo": "AVDC",
+                "stars": 264
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Robot Arm"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "The Ingredients for Robotic Diffusion Transformers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-15T22:13:12Z",
+                "owner": "SudeepDasari",
+                "repo": "dit-policy",
+                "stars": 166
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-18T04:31:12Z",
+                "owner": "fuse-model",
+                "repo": "FuSe",
+                "stars": 71
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-LLMs-for-Video-Understanding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T07:01:51Z",
+            "owner": "yunlong10",
+            "repo": "Awesome-LLMs-for-Video-Understanding",
+            "stars": 3262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMs Meet Multimodal Generation and Editing: A Survey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-04T13:46:27Z",
+            "owner": "YingqingHe",
+            "repo": "Awesome-LLMs-meet-Multimodal-Generation",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLM-Eval: A General Evaluation on Video Large Language Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T08:23:28Z",
+            "owner": "zyayoung",
+            "repo": "Awesome-Video-LLMs",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-VideoLLM-Papers",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Other Useful Sources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:56.106Z",
+    "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
+    "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Video-Robotic-Papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Video-Robotic-Papers with stars"
+  }
+}
