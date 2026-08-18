@@ -46,7 +46,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * FAIR, Meta AI || University of Pennsylvania
 
 * **SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models**
-  * [Code](https://github.com/rail-berkeley/soar) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2025-10-10
+  * [Code](https://github.com/rail-berkeley/soar) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2025-10-10
   * Zhiyuan Zhou, Pranav Atreya, Abraham Lee, Homer Walke, Oier Mees, Sergey Levine
   * [Paper](https://arxiv.org/abs/2407.20635)
   * [Website](https://auto-improvement.github.io/)
@@ -98,7 +98,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * the Robot Learning Lab at Imperial College London
 
 * **Octo: An Open-Source Generalist Robot Policy**
-  * [Code](https://github.com/octo-models/octo) ⭐ 1,738 | 🐛 96 | 🌐 Python | 📅 2024-07-31
+  * [Code](https://github.com/octo-models/octo) ⭐ 1,740 | 🐛 96 | 🌐 Python | 📅 2024-07-31
   * Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
   * [Paper](https://arxiv.org/pdf/2405.12213)
   * [Website](https://octo-models.github.io/)
@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 6,835 | 🐛 114 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 6,839 | 🐛 114 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -237,7 +237,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 | RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation            | [Link](https://arxiv.org/abs/2407.04689)           | 2024-07 |
 
 * **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**
-  * [Code](https://github.com/google-deepmind/open_x_embodiment) ⭐ 1,984 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2025-11-05
+  * [Code](https://github.com/google-deepmind/open_x_embodiment) ⭐ 1,985 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2025-11-05
   * Open X-Embodiment Collaboration, Abby O'Neill, Abdul Rehman, Abhinav Gupta, Abhiram Maddukuri, Abhishek Gupta, Abhishek Padalkar, Abraham Lee, Acorn Pooley, Agrim Gupta, Ajay Mandlekar, Ajinkya Jain, Albert Tung, Alex Bewley, Alex Herzog, Alex Irpan, Alexander Khazatsky, Anant Rai, Anchit Gupta, Andrew Wang, Andrey Kolobov, Anikait Singh, Animesh Garg, Aniruddha Kembhavi, Annie Xie, Anthony Brohan, Antonin Raffin, Archit Sharma, Arefeh Yavary, Arhan Jain, Ashwin Balakrishna, Ayzaan Wahid, Ben Burgess-Limerick, Beomjoon Kim, Bernhard Schölkopf, Blake Wulfe, Brian Ichter, Cewu Lu, Charles Xu, Charlotte Le, Chelsea Finn, Chen Wang, Chenfeng Xu, Cheng Chi, Chenguang Huang, Christine Chan, Christopher Agia, Chuer Pan, Chuyuan Fu, Coline Devin, Danfei Xu, Daniel Morton, Danny Driess, Daphne Chen, Deepak Pathak, Dhruv Shah, Dieter Büchler, Dinesh Jayaraman, Dmitry Kalashnikov, Dorsa Sadigh, Edward Johns, Ethan Foster, Fangchen Liu, Federico Ceola, Fei Xia, Feiyu Zhao, Felipe Vieira Frujeri, Freek Stulp, Gaoyue Zhou, Gaurav S. Sukhatme, Gautam Salhotra, Ge Yan, Gilbert Feng, Giulio Schiavi, Glen Berseth, Gregory Kahn, Guangwen Yang, Guanzhi Wang, Hao Su, Hao-Shu Fang, Haochen Shi, Henghui Bao, Heni Ben Amor, Henrik I Christensen, Hiroki Furuta, Homanga Bharadhwaj, Homer Walke, Hongjie Fang, Huy Ha, Igor Mordatch, Ilija Radosavovic, Isabel Leal, Jacky Liang, Jad Abou-Chakra, Jaehyung Kim, Jaimyn Drake, Jan Peters, Jan Schneider, Jasmine Hsu, Jay Vakil et al. (192 additional authors not shown)
   * [Paper](https://arxiv.org/abs/2310.08864)
   * [Website](https://robotics-transformer-x.github.io/)
@@ -269,10 +269,10 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 ## Other Useful Sources
 
 * [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,266 | 🐛 7 | 📅 2026-08-12
-* [LLMs Meet Multimodal Generation and Editing: A Survey](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ⭐ 551 | 🐛 2 | 🌐 HTML | 📅 2025-04-04
+* [LLMs Meet Multimodal Generation and Editing: A Survey](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ⭐ 552 | 🐛 2 | 🌐 HTML | 📅 2025-04-04
 * [VLM-Eval: A General Evaluation on Video Large Language Models](https://github.com/zyayoung/Awesome-Video-LLMs) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-01-20
 * [Awesome-VideoLLM-Papers](https://github.com/yyyujintang/Awesome-VideoLLM-Papers)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

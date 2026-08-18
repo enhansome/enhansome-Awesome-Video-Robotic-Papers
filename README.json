@@ -82,7 +82,7 @@
                 "last_commit": "2025-10-10T23:14:13Z",
                 "owner": "rail-berkeley",
                 "repo": "soar",
-                "stars": 77
+                "stars": 78
               }
             }
           ]
@@ -103,7 +103,7 @@
                 "last_commit": "2024-07-31T00:26:15Z",
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1738
+                "stars": 1740
               }
             }
           ]
@@ -166,7 +166,7 @@
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6835
+                "stars": 6839
               }
             }
           ]
@@ -355,7 +355,7 @@
             "last_commit": "2025-04-04T13:46:27Z",
             "owner": "YingqingHe",
             "repo": "Awesome-LLMs-meet-Multimodal-Generation",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:57:03.671Z",
+    "last_updated": "2026-08-18T03:52:02.586Z",
     "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Robotic-Papers",
