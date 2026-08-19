@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 748377990,
                 "language": "Python",
                 "last_commit": "2024-11-27T09:00:35Z",
                 "owner": "sarthak268",
@@ -36,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 578802133,
                 "language": "Python",
                 "last_commit": "2022-12-16T00:00:40Z",
                 "owner": "kuanfang",
@@ -57,6 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 542309393,
                 "language": "Python",
                 "last_commit": "2026-07-30T21:38:00Z",
                 "owner": "facebookresearch",
@@ -78,6 +81,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 830222923,
                 "language": "Python",
                 "last_commit": "2025-10-10T23:14:13Z",
                 "owner": "rail-berkeley",
@@ -99,6 +103,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 731075982,
                 "language": "Python",
                 "last_commit": "2024-07-31T00:26:15Z",
                 "owner": "octo-models",
@@ -120,6 +125,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 702205884,
                 "language": "Python",
                 "last_commit": "2024-10-18T04:14:55Z",
                 "owner": "SudeepDasari",
@@ -141,6 +147,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 825064088,
                 "language": "Python",
                 "last_commit": "2024-12-30T08:35:00Z",
                 "owner": "yxKryptonite",
@@ -162,11 +169,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 814864073,
                 "language": "Python",
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6845
+                "stars": 6849
               }
             }
           ]
@@ -183,6 +191,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 703216985,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-05-23T20:26:16Z",
                 "owner": "video-language-planning",
@@ -204,6 +213,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 819540607,
                 "language": "Python",
                 "last_commit": "2025-06-07T00:19:48Z",
                 "owner": "cvlab-columbia",
@@ -225,6 +235,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 788768699,
                 "language": "Python",
                 "last_commit": "2024-04-22T01:42:06Z",
                 "owner": "bytedance",
@@ -246,6 +257,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 821481938,
                 "language": "Python",
                 "last_commit": "2024-07-14T01:44:38Z",
                 "owner": "real-stanford",
@@ -267,6 +279,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 702483322,
                 "language": "Python",
                 "last_commit": "2024-04-25T16:03:13Z",
                 "owner": "flow-diffusion",
@@ -280,7 +293,7 @@
       "title": "Robot Arm"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -294,6 +307,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 872212031,
                 "language": "Python",
                 "last_commit": "2024-10-15T22:13:12Z",
                 "owner": "SudeepDasari",
@@ -315,6 +329,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 905971754,
                 "language": "Python",
                 "last_commit": "2025-09-18T04:31:12Z",
                 "owner": "fuse-model",
@@ -323,12 +338,100 @@
               }
             }
           ]
+        },
+        {
+          "node_type": "group",
+          "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 707547956,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-11-05T23:45:27Z",
+                "owner": "google-deepmind",
+                "repo": "open_x_embodiment",
+                "stars": 1986
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BridgeData V2: A Dataset for Robot Learning at Scale",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668908439,
+                "language": "Python",
+                "last_commit": "2024-03-17T01:26:49Z",
+                "owner": "rail-berkeley",
+                "repo": "bridge_data_v2",
+                "stars": 288
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ego4DSounds:A diverse egocentric dataset with high action-audio correspondence",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815044075,
+                "language": "Python",
+                "last_commit": "2024-06-14T18:49:02Z",
+                "owner": "Ego4DSounds",
+                "repo": "Ego4DSounds",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "API",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664734038,
+                "language": "Python",
+                "last_commit": "2023-10-18T11:09:50Z",
+                "owner": "rh20t",
+                "repo": "rh20t_api",
+                "stars": 111
+              }
+            }
+          ]
         }
       ],
       "title": "Dataset"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -337,6 +440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666960664,
             "language": null,
             "last_commit": "2026-08-12T07:01:51Z",
             "owner": "yunlong10",
@@ -351,6 +455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 719973433,
             "language": "HTML",
             "last_commit": "2025-04-04T13:46:27Z",
             "owner": "YingqingHe",
@@ -365,26 +470,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 724642381,
             "language": "Python",
             "last_commit": "2024-01-20T08:23:28Z",
             "owner": "zyayoung",
             "repo": "Awesome-Video-LLMs",
             "stars": 37
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-VideoLLM-Papers",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Other Useful Sources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:53:19.112Z",
+    "last_updated": "2026-08-19T12:09:14.240Z",
     "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
+    "original_repository_id": 816639481,
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Robotic-Papers",
     "enhanced_repository_description": null,
