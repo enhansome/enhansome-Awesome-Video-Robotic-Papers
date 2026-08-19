@@ -103,7 +103,7 @@
                 "last_commit": "2024-07-31T00:26:15Z",
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1740
+                "stars": 1741
               }
             }
           ]
@@ -166,7 +166,7 @@
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6839
+                "stars": 6845
               }
             }
           ]
@@ -341,7 +341,7 @@
             "last_commit": "2026-08-12T07:01:51Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3266
+            "stars": 3267
           }
         },
         {
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:52:02.586Z",
+    "last_updated": "2026-08-19T03:53:19.112Z",
     "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Robotic-Papers",
