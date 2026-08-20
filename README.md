@@ -98,7 +98,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * the Robot Learning Lab at Imperial College London
 
 * **Octo: An Open-Source Generalist Robot Policy**
-  * [Code](https://github.com/octo-models/octo) ⭐ 1,741 | 🐛 96 | 🌐 Python | 📅 2024-07-31
+  * [Code](https://github.com/octo-models/octo) ⭐ 1,742 | 🐛 96 | 🌐 Python | 📅 2024-07-31
   * Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
   * [Paper](https://arxiv.org/pdf/2405.12213)
   * [Website](https://octo-models.github.io/)
@@ -113,7 +113,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * RSS 2024
 
 * **RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**
-  * [Code](https://github.com/yxKryptonite/RAM_code) ⭐ 101 | 🐛 4 | 🌐 Python | 📅 2024-12-30
+  * [Code](https://github.com/yxKryptonite/RAM_code) ⭐ 102 | 🐛 4 | 🌐 Python | 📅 2024-12-30
   * Yuxuan Kuang\*, Junjie Ye\*, Haoran Geng\*, Jiageng Mao, Congyue Deng, Leonidas Guibas, He Wang, Yue Wang
   * [Paper](https://arxiv.org/abs/2407.04689)
   * [Website](https://yxkryptonite.github.io/RAM/)
@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 6,849 | 🐛 114 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 6,852 | 🐛 114 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -275,4 +275,4 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
