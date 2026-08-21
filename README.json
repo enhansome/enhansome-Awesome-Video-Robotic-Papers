@@ -108,7 +108,7 @@
                 "last_commit": "2024-07-31T00:26:15Z",
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1742
+                "stars": 1743
               }
             }
           ]
@@ -174,7 +174,7 @@
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6852
+                "stars": 6858
               }
             }
           ]
@@ -284,7 +284,7 @@
                 "last_commit": "2024-04-25T16:03:13Z",
                 "owner": "flow-diffusion",
                 "repo": "AVDC",
-                "stars": 264
+                "stars": 263
               }
             }
           ]
@@ -356,7 +356,7 @@
                 "last_commit": "2025-11-05T23:45:27Z",
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 1986
+                "stars": 1990
               }
             }
           ]
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:52:59.885Z",
+    "last_updated": "2026-08-21T03:56:25.062Z",
     "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
     "original_repository_id": 816639481,
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
