@@ -174,7 +174,7 @@
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6871
+                "stars": 6875
               }
             }
           ]
@@ -356,7 +356,7 @@
                 "last_commit": "2025-11-05T23:45:27Z",
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 1992
+                "stars": 1994
               }
             }
           ]
@@ -445,7 +445,7 @@
             "last_commit": "2026-08-12T07:01:51Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3269
+            "stars": 3271
           }
         },
         {
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:49:45.607Z",
+    "last_updated": "2026-08-23T03:56:36.625Z",
     "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
     "original_repository_id": 816639481,
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
