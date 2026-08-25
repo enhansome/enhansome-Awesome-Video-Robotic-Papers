@@ -10,7 +10,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "sarthak268/nesca-pytorch",
               "description": null,
               "children": [],
               "repo_info": {
@@ -32,7 +32,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "kuanfang/flap",
               "description": null,
               "children": [],
               "repo_info": {
@@ -54,7 +54,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "facebookresearch/vip",
               "description": null,
               "children": [],
               "repo_info": {
@@ -76,7 +76,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "rail-berkeley/soar",
               "description": null,
               "children": [],
               "repo_info": {
@@ -98,7 +98,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "octo-models/octo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -120,7 +120,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "SudeepDasari/data4robotics",
               "description": null,
               "children": [],
               "repo_info": {
@@ -142,7 +142,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "yxKryptonite/RAM_code",
               "description": null,
               "children": [],
               "repo_info": {
@@ -164,7 +164,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "openvla/openvla",
               "description": null,
               "children": [],
               "repo_info": {
@@ -174,7 +174,7 @@
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6889
+                "stars": 6891
               }
             }
           ]
@@ -186,7 +186,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "video-language-planning/vlp_code",
               "description": null,
               "children": [],
               "repo_info": {
@@ -208,7 +208,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "cvlab-columbia/dreamitate",
               "description": null,
               "children": [],
               "repo_info": {
@@ -230,7 +230,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "bytedance/GR-1",
               "description": null,
               "children": [],
               "repo_info": {
@@ -252,7 +252,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "real-stanford/maniwav",
               "description": null,
               "children": [],
               "repo_info": {
@@ -274,7 +274,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "flow-diffusion/AVDC",
               "description": null,
               "children": [],
               "repo_info": {
@@ -302,7 +302,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "SudeepDasari/dit-policy",
               "description": null,
               "children": [],
               "repo_info": {
@@ -324,7 +324,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "fuse-model/FuSe",
               "description": null,
               "children": [],
               "repo_info": {
@@ -346,7 +346,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "google-deepmind/open_x_embodiment",
               "description": null,
               "children": [],
               "repo_info": {
@@ -368,7 +368,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "rail-berkeley/bridge_data_v2",
               "description": null,
               "children": [],
               "repo_info": {
@@ -390,7 +390,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "Ego4DSounds/Ego4DSounds",
               "description": null,
               "children": [],
               "repo_info": {
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:54:37.196Z",
+    "last_updated": "2026-08-25T06:25:56.242Z",
     "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
     "original_repository_id": 816639481,
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
