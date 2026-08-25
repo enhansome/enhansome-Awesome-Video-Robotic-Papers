@@ -98,7 +98,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * the Robot Learning Lab at Imperial College London
 
 * **Octo: An Open-Source Generalist Robot Policy**
-  * [Code](https://github.com/octo-models/octo) ⭐ 1,747 | 🐛 96 | 🌐 Python | 📅 2024-07-31
+  * [Code](https://github.com/octo-models/octo) ⭐ 1,748 | 🐛 96 | 🌐 Python | 📅 2024-07-31
   * Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
   * [Paper](https://arxiv.org/pdf/2405.12213)
   * [Website](https://octo-models.github.io/)
@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 6,886 | 🐛 114 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 6,889 | 🐛 114 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -192,7 +192,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Homanga Bharadhwaj, Roozbeh Mottaghi\*, Abhinav Gupta\*, Shubham Tulsiani\*
   * [Paper](https://arxiv.org/abs/2405.01527)
   * [Website](https://homangab.github.io/track2act/)
-  * [Code](https://github.com/homangab/Track-2-Act/) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2026-08-13
+  * [Code](https://github.com/homangab/Track-2-Act/) ⭐ 106 | 🐛 3 | 🌐 Python | 📅 2026-08-13
 
 ## Dataset
 
@@ -275,4 +275,4 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
