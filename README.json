@@ -86,7 +86,7 @@
                 "last_commit": "2025-10-10T23:14:13Z",
                 "owner": "rail-berkeley",
                 "repo": "soar",
-                "stars": 79
+                "stars": 80
               }
             }
           ]
@@ -108,7 +108,7 @@
                 "last_commit": "2024-07-31T00:26:15Z",
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1750
+                "stars": 1753
               }
             }
           ]
@@ -174,7 +174,7 @@
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6899
+                "stars": 6908
               }
             }
           ]
@@ -312,7 +312,7 @@
                 "last_commit": "2024-10-15T22:13:12Z",
                 "owner": "SudeepDasari",
                 "repo": "dit-policy",
-                "stars": 166
+                "stars": 167
               }
             }
           ]
@@ -356,7 +356,7 @@
                 "last_commit": "2025-11-05T23:45:27Z",
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2000
+                "stars": 2008
               }
             }
           ]
@@ -445,7 +445,7 @@
             "last_commit": "2026-08-24T08:22:10Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3272
+            "stars": 3273
           }
         },
         {
@@ -483,9 +483,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:15.153Z",
-    "original_repository": "H-Freax/Awesome-Video-Robotic-Papers",
-    "original_repository_id": 816639481,
+    "last_updated": "2026-08-27T11:26:34.479Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 816639481,
+      "language": null,
+      "last_commit": "2025-01-30T04:26:05Z",
+      "owner": "H-Freax",
+      "repo": "Awesome-Video-Robotic-Papers",
+      "stars": 193
+    },
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Robotic-Papers",
     "enhanced_repository_description": null,
