@@ -21,7 +21,8 @@
                 "owner": "sarthak268",
                 "repo": "nesca-pytorch",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "kuanfang",
                 "repo": "flap",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -65,7 +67,8 @@
                 "owner": "facebookresearch",
                 "repo": "vip",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -87,7 +90,8 @@
                 "owner": "rail-berkeley",
                 "repo": "soar",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -108,8 +112,9 @@
                 "last_commit": "2024-07-31T00:26:15Z",
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1753
-              }
+                "stars": 1754
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -131,7 +136,8 @@
                 "owner": "SudeepDasari",
                 "repo": "data4robotics",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -153,7 +159,8 @@
                 "owner": "yxKryptonite",
                 "repo": "RAM_code",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -174,8 +181,9 @@
                 "last_commit": "2025-03-23T23:41:01Z",
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6909
-              }
+                "stars": 6910
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -197,7 +205,8 @@
                 "owner": "video-language-planning",
                 "repo": "vlp_code",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -219,7 +228,8 @@
                 "owner": "cvlab-columbia",
                 "repo": "dreamitate",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -241,7 +251,8 @@
                 "owner": "bytedance",
                 "repo": "GR-1",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -263,7 +274,8 @@
                 "owner": "real-stanford",
                 "repo": "maniwav",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -285,7 +297,8 @@
                 "owner": "flow-diffusion",
                 "repo": "AVDC",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         }
@@ -312,8 +325,9 @@
                 "last_commit": "2024-10-15T22:13:12Z",
                 "owner": "SudeepDasari",
                 "repo": "dit-policy",
-                "stars": 167
-              }
+                "stars": 168
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -335,7 +349,8 @@
                 "owner": "fuse-model",
                 "repo": "FuSe",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -357,7 +372,8 @@
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
                 "stars": 2008
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -379,7 +395,8 @@
                 "owner": "rail-berkeley",
                 "repo": "bridge_data_v2",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -401,7 +418,8 @@
                 "owner": "Ego4DSounds",
                 "repo": "Ego4DSounds",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         },
@@ -422,8 +440,9 @@
                 "last_commit": "2023-10-18T11:09:50Z",
                 "owner": "rh20t",
                 "repo": "rh20t_api",
-                "stars": 112
-              }
+                "stars": 113
+              },
+              "first_seen": "2026-08-28T15:15:17.993Z"
             }
           ]
         }
@@ -445,8 +464,9 @@
             "last_commit": "2026-08-24T08:22:10Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3273
-          }
+            "stars": 3275
+          },
+          "first_seen": "2026-08-28T15:15:17.993Z"
         },
         {
           "node_type": "item",
@@ -461,7 +481,8 @@
             "owner": "YingqingHe",
             "repo": "Awesome-LLMs-meet-Multimodal-Generation",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-28T15:15:17.993Z"
         },
         {
           "node_type": "item",
@@ -476,14 +497,15 @@
             "owner": "zyayoung",
             "repo": "Awesome-Video-LLMs",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T15:15:17.993Z"
         }
       ],
       "title": "Other Useful Sources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:04:14.810Z",
+    "last_updated": "2026-08-28T15:15:17.993Z",
     "original_repository_info": {
       "archived": false,
       "id": 816639481,

@@ -98,7 +98,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * the Robot Learning Lab at Imperial College London
 
 * **Octo: An Open-Source Generalist Robot Policy**
-  * [Code](https://github.com/octo-models/octo) ⭐ 1,753 | 🐛 95 | 🌐 Python | 📅 2024-07-31
+  * [Code](https://github.com/octo-models/octo) ⭐ 1,754 | 🐛 95 | 🌐 Python | 📅 2024-07-31
   * Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
   * [Paper](https://arxiv.org/pdf/2405.12213)
   * [Website](https://octo-models.github.io/)
@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 6,909 | 🐛 113 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 6,910 | 🐛 113 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -197,7 +197,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 ## Dataset
 
 * **The Ingredients for Robotic Diffusion Transformers**
-  * [Code](https://github.com/sudeepdasari/dit-policy) ⭐ 167 | 🐛 3 | 🌐 Python | 📅 2024-10-15
+  * [Code](https://github.com/sudeepdasari/dit-policy) ⭐ 168 | 🐛 3 | 🌐 Python | 📅 2024-10-15
   * JSudeep Dasari, Oier Mees, Sebastian Zhao, Mohan Kumar Srirama, Sergey Levine
   * [Paper](https://arxiv.org/abs/2410.10088)
   * [Website](https://dit-policy.github.io/)
@@ -258,7 +258,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * <img width="911" alt="image" src="https://github.com/user-attachments/assets/833ab02e-3f2b-4f3f-8508-17b98c9dce06">
 
 * **RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot**
-  * [API](https://github.com/rh20t/rh20t_api) ⭐ 112 | 🐛 10 | 🌐 Python | 📅 2023-10-18
+  * [API](https://github.com/rh20t/rh20t_api) ⭐ 113 | 🐛 10 | 🌐 Python | 📅 2023-10-18
   * Hao-Shu Fang, Hongjie Fang, Zhenyu Tang, Jirong Liu, Chenxi Wang, Junbo Wang, Haoyi Zhu, Cewu Lu
   * [Paper](https://arxiv.org/abs/2307.00595)
   * [Website](https://rh20t.github.io/)
@@ -268,11 +268,11 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ## Other Useful Sources
 
-* [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,273 | 🐛 6 | 📅 2026-08-24
+* [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,275 | 🐛 6 | 📅 2026-08-24
 * [LLMs Meet Multimodal Generation and Editing: A Survey](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ⭐ 552 | 🐛 3 | 🌐 HTML | 📅 2025-04-04
 * [VLM-Eval: A General Evaluation on Video Large Language Models](https://github.com/zyayoung/Awesome-Video-LLMs) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-01-20
 * [Awesome-VideoLLM-Papers](https://github.com/yyyujintang/Awesome-VideoLLM-Papers)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
