@@ -15,12 +15,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " PyTorch Implementation for the paper \"Let Me Help You! Neuro-Symbolic Short-Context Action Anticipation\" accepted to RA-L'24. ",
+                "homepage": null,
                 "id": 748377990,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-27T09:00:35Z",
+                "open_issues": 2,
                 "owner": "sarthak268",
                 "repo": "nesca-pytorch",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "action-anticipation",
+                  "attention",
+                  "computer-vision",
+                  "human-robot-collaboration",
+                  "human-robot-interaction",
+                  "pytorch",
+                  "robot-and-automation",
+                  "short-context",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -38,12 +53,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 578802133,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-16T00:00:40Z",
+                "open_issues": 1,
                 "owner": "kuanfang",
                 "repo": "flap",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -61,12 +81,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official repository for \"VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training\"",
+                "homepage": null,
                 "id": 542309393,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T21:38:00Z",
+                "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "vip",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -84,12 +109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for paper \"Autonomous Improvement of Instruction Following Skills via Foundation Models\" | CoRL 2024",
+                "homepage": "https://auto-improvement.github.io",
                 "id": 830222923,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-10T23:14:13Z",
+                "open_issues": 1,
                 "owner": "rail-berkeley",
                 "repo": "soar",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -107,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.",
+                "homepage": "https://octo-models.github.io/",
                 "id": 731075982,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-31T00:26:15Z",
+                "open_issues": 95,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1754
+                "stars": 1755,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -130,12 +165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 702205884,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-18T04:14:55Z",
+                "open_issues": 4,
                 "owner": "SudeepDasari",
                 "repo": "data4robotics",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -153,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation",
+                "homepage": "https://yuxuank.com/RAM/",
                 "id": 825064088,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-30T08:35:00Z",
+                "open_issues": 4,
                 "owner": "yxKryptonite",
                 "repo": "RAM_code",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -176,12 +221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenVLA: An open-source vision-language-action model for robotic manipulation.",
+                "homepage": null,
                 "id": 814864073,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-23T23:41:01Z",
+                "open_issues": 113,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6910
+                "stars": 6912,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -199,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 703216985,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-05-23T20:26:16Z",
+                "open_issues": 5,
                 "owner": "video-language-planning",
                 "repo": "vlp_code",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -222,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dreamitate: Real-World Visuomotor Policy Learning via Video Generation (CoRL 2024)",
+                "homepage": null,
                 "id": 819540607,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-07T00:19:48Z",
+                "open_issues": 1,
                 "owner": "cvlab-columbia",
                 "repo": "dreamitate",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -245,12 +305,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation\"",
+                "homepage": null,
                 "id": 788768699,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-22T01:42:06Z",
+                "open_issues": 9,
                 "owner": "bytedance",
                 "repo": "GR-1",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -268,12 +335,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL 2024] Official codebase of paper \"ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data\"",
+                "homepage": "https://mani-wav.github.io/",
                 "id": 821481938,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-14T01:44:38Z",
+                "open_issues": 0,
                 "owner": "real-stanford",
                 "repo": "maniwav",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -291,12 +363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of Learning to Act from Actionless Videos through Dense Correspondences. ",
+                "homepage": "https://flow-diffusion.github.io/",
                 "id": 702483322,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-25T16:03:13Z",
+                "open_issues": 5,
                 "owner": "flow-diffusion",
                 "repo": "AVDC",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -320,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 872212031,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-15T22:13:12Z",
+                "open_issues": 3,
                 "owner": "SudeepDasari",
                 "repo": "dit-policy",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -343,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://fuse-model.github.io",
                 "id": 905971754,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-18T04:31:12Z",
+                "open_issues": 2,
                 "owner": "fuse-model",
                 "repo": "FuSe",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -366,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 707547956,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-05T23:45:27Z",
+                "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2008
+                "stars": 2008,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -389,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 668908439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-17T01:26:49Z",
+                "open_issues": 31,
                 "owner": "rail-berkeley",
                 "repo": "bridge_data_v2",
-                "stars": 289
+                "stars": 289,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -412,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ego4DSounds: A diverse egocentric dataset with high action-audio correspondence",
+                "homepage": null,
                 "id": 815044075,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-14T18:49:02Z",
+                "open_issues": 1,
                 "owner": "Ego4DSounds",
                 "repo": "Ego4DSounds",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -435,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 664734038,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-18T11:09:50Z",
+                "open_issues": 10,
                 "owner": "rh20t",
                 "repo": "rh20t_api",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
             }
@@ -459,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
+            "homepage": null,
             "id": 666960664,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-24T08:22:10Z",
+            "open_issues": 6,
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3275
+            "stars": 3275,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:17.993Z"
         },
@@ -475,12 +587,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔥🔥 A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).",
+            "homepage": null,
             "id": 719973433,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-04-04T13:46:27Z",
+            "open_issues": 3,
             "owner": "YingqingHe",
             "repo": "Awesome-LLMs-meet-Multimodal-Generation",
-            "stars": 552
+            "stars": 552,
+            "topics": [
+              "aigc",
+              "large-language-models",
+              "large-vision-language-models",
+              "llm",
+              "lvlm",
+              "mllm",
+              "multimodal-generation",
+              "multimodal-large-language-models",
+              "multimodal-models",
+              "multimodality",
+              "text-to-3d",
+              "text-to-audio",
+              "text-to-image",
+              "text-to-music",
+              "text-to-sound",
+              "text-to-speech",
+              "text-to-video"
+            ]
           },
           "first_seen": "2026-08-28T15:15:17.993Z"
         },
@@ -491,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore VLM-Eval, a framework for evaluating Video Large Language Models, enhancing your video analysis with cutting-edge AI technology.",
+            "homepage": null,
             "id": 724642381,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-20T08:23:28Z",
+            "open_issues": 0,
             "owner": "zyayoung",
             "repo": "Awesome-Video-LLMs",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:17.993Z"
         }
@@ -505,15 +645,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:15:17.993Z",
+    "last_updated": "2026-08-29T04:50:48.246Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
+      "homepage": null,
       "id": 816639481,
       "language": null,
+      "license": null,
       "last_commit": "2025-01-30T04:26:05Z",
+      "open_issues": 0,
       "owner": "H-Freax",
       "repo": "Awesome-Video-Robotic-Papers",
-      "stars": 193
+      "stars": 193,
+      "topics": [
+        "artificial-intelligence",
+        "awesome-list",
+        "list",
+        "manipulation",
+        "paper",
+        "robot",
+        "robot-arm",
+        "robot-arm-control",
+        "robot-learning",
+        "robotics",
+        "video"
+      ]
     },
     "original_repository_sha": "4f0a15092a2e89671cd81bb6181a9216153576d6",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-Robotic-Papers",
