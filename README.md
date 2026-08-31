@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 6,914 | 🐛 113 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 6,917 | 🐛 113 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -237,7 +237,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 | RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation            | [Link](https://arxiv.org/abs/2407.04689)           | 2024-07 |
 
 * **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**
-  * [Code](https://github.com/google-deepmind/open_x_embodiment) ⭐ 2,008 | 🐛 56 | 🌐 Jupyter Notebook | 📅 2025-11-05
+  * [Code](https://github.com/google-deepmind/open_x_embodiment) ⭐ 2,011 | 🐛 56 | 🌐 Jupyter Notebook | 📅 2025-11-05
   * Open X-Embodiment Collaboration, Abby O'Neill, Abdul Rehman, Abhinav Gupta, Abhiram Maddukuri, Abhishek Gupta, Abhishek Padalkar, Abraham Lee, Acorn Pooley, Agrim Gupta, Ajay Mandlekar, Ajinkya Jain, Albert Tung, Alex Bewley, Alex Herzog, Alex Irpan, Alexander Khazatsky, Anant Rai, Anchit Gupta, Andrew Wang, Andrey Kolobov, Anikait Singh, Animesh Garg, Aniruddha Kembhavi, Annie Xie, Anthony Brohan, Antonin Raffin, Archit Sharma, Arefeh Yavary, Arhan Jain, Ashwin Balakrishna, Ayzaan Wahid, Ben Burgess-Limerick, Beomjoon Kim, Bernhard Schölkopf, Blake Wulfe, Brian Ichter, Cewu Lu, Charles Xu, Charlotte Le, Chelsea Finn, Chen Wang, Chenfeng Xu, Cheng Chi, Chenguang Huang, Christine Chan, Christopher Agia, Chuer Pan, Chuyuan Fu, Coline Devin, Danfei Xu, Daniel Morton, Danny Driess, Daphne Chen, Deepak Pathak, Dhruv Shah, Dieter Büchler, Dinesh Jayaraman, Dmitry Kalashnikov, Dorsa Sadigh, Edward Johns, Ethan Foster, Fangchen Liu, Federico Ceola, Fei Xia, Feiyu Zhao, Felipe Vieira Frujeri, Freek Stulp, Gaoyue Zhou, Gaurav S. Sukhatme, Gautam Salhotra, Ge Yan, Gilbert Feng, Giulio Schiavi, Glen Berseth, Gregory Kahn, Guangwen Yang, Guanzhi Wang, Hao Su, Hao-Shu Fang, Haochen Shi, Henghui Bao, Heni Ben Amor, Henrik I Christensen, Hiroki Furuta, Homanga Bharadhwaj, Homer Walke, Hongjie Fang, Huy Ha, Igor Mordatch, Ilija Radosavovic, Isabel Leal, Jacky Liang, Jad Abou-Chakra, Jaehyung Kim, Jaimyn Drake, Jan Peters, Jan Schneider, Jasmine Hsu, Jay Vakil et al. (192 additional authors not shown)
   * [Paper](https://arxiv.org/abs/2310.08864)
   * [Website](https://robotics-transformer-x.github.io/)
@@ -258,7 +258,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * <img width="911" alt="image" src="https://github.com/user-attachments/assets/833ab02e-3f2b-4f3f-8508-17b98c9dce06">
 
 * **RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot**
-  * [API](https://github.com/rh20t/rh20t_api) ⭐ 113 | 🐛 10 | 🌐 Python | 📅 2023-10-18
+  * [API](https://github.com/rh20t/rh20t_api) ⭐ 114 | 🐛 10 | 🌐 Python | 📅 2023-10-18
   * Hao-Shu Fang, Hongjie Fang, Zhenyu Tang, Jirong Liu, Chenxi Wang, Junbo Wang, Haoyi Zhu, Cewu Lu
   * [Paper](https://arxiv.org/abs/2307.00595)
   * [Website](https://rh20t.github.io/)
@@ -268,11 +268,11 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ## Other Useful Sources
 
-* [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,278 | 🐛 6 | 📅 2026-08-24
+* [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,279 | 🐛 6 | 📅 2026-08-24
 * [LLMs Meet Multimodal Generation and Editing: A Survey](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ⭐ 552 | 🐛 3 | 🌐 HTML | 📅 2025-04-04
 * [VLM-Eval: A General Evaluation on Video Large Language Models](https://github.com/zyayoung/Awesome-Video-LLMs) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-01-20
 * [Awesome-VideoLLM-Papers](https://github.com/yyyujintang/Awesome-VideoLLM-Papers)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
