@@ -227,10 +227,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-03-23T23:41:01Z",
-                "open_issues": 117,
+                "open_issues": 114,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6977,
+                "stars": 6985,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2025,
+                "stars": 2028,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -543,7 +543,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-18T11:09:50Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "rh20t",
                 "repo": "rh20t_api",
                 "stars": 114,
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:03:20.980Z",
+    "last_updated": "2026-09-10T08:03:08.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
