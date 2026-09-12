@@ -230,7 +230,7 @@
                 "open_issues": 114,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 6992,
+                "stars": 6994,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -490,7 +490,7 @@
                 "open_issues": 31,
                 "owner": "rail-berkeley",
                 "repo": "bridge_data_v2",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -575,7 +575,7 @@
             "open_issues": 7,
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3282,
+            "stars": 3283,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:17.993Z"
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:58:23.264Z",
+    "last_updated": "2026-09-12T07:50:51.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
