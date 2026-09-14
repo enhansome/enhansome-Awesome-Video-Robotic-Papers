@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 6,999 | 🐛 114 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 7,004 | 🐛 115 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -275,4 +275,4 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
