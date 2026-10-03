@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "sarthak268/nesca-pytorch",
-              "description": null,
+              "description": "sarthak268/nesca-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,7 +49,7 @@
             {
               "node_type": "item",
               "title": "kuanfang/flap",
-              "description": null,
+              "description": "kuanfang/flap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -77,7 +77,7 @@
             {
               "node_type": "item",
               "title": "facebookresearch/vip",
-              "description": null,
+              "description": "facebookresearch/vip",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -105,7 +105,7 @@
             {
               "node_type": "item",
               "title": "rail-berkeley/soar",
-              "description": null,
+              "description": "rail-berkeley/soar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
             {
               "node_type": "item",
               "title": "octo-models/octo",
-              "description": null,
+              "description": "octo-models/octo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -146,7 +146,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1791,
+                "stars": 1792,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -161,7 +161,7 @@
             {
               "node_type": "item",
               "title": "SudeepDasari/data4robotics",
-              "description": null,
+              "description": "SudeepDasari/data4robotics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "yxKryptonite/RAM_code",
-              "description": null,
+              "description": "yxKryptonite/RAM_code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -217,7 +217,7 @@
             {
               "node_type": "item",
               "title": "openvla/openvla",
-              "description": null,
+              "description": "openvla/openvla",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7104,
+                "stars": 7105,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -245,7 +245,7 @@
             {
               "node_type": "item",
               "title": "video-language-planning/vlp_code",
-              "description": null,
+              "description": "video-language-planning/vlp_code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "cvlab-columbia/dreamitate",
-              "description": null,
+              "description": "cvlab-columbia/dreamitate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -301,7 +301,7 @@
             {
               "node_type": "item",
               "title": "bytedance/GR-1",
-              "description": null,
+              "description": "bytedance/GR-1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -331,7 +331,7 @@
             {
               "node_type": "item",
               "title": "real-stanford/maniwav",
-              "description": null,
+              "description": "real-stanford/maniwav",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "flow-diffusion/AVDC",
-              "description": null,
+              "description": "flow-diffusion/AVDC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -393,7 +393,7 @@
             {
               "node_type": "item",
               "title": "SudeepDasari/dit-policy",
-              "description": null,
+              "description": "SudeepDasari/dit-policy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -421,7 +421,7 @@
             {
               "node_type": "item",
               "title": "fuse-model/FuSe",
-              "description": null,
+              "description": "fuse-model/FuSe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -449,7 +449,7 @@
             {
               "node_type": "item",
               "title": "google-deepmind/open_x_embodiment",
-              "description": null,
+              "description": "google-deepmind/open_x_embodiment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
                 "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2054,
+                "stars": 2055,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -477,7 +477,7 @@
             {
               "node_type": "item",
               "title": "rail-berkeley/bridge_data_v2",
-              "description": null,
+              "description": "rail-berkeley/bridge_data_v2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -505,7 +505,7 @@
             {
               "node_type": "item",
               "title": "Ego4DSounds/Ego4DSounds",
-              "description": null,
+              "description": "Ego4DSounds/Ego4DSounds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -533,7 +533,7 @@
             {
               "node_type": "item",
               "title": "API",
-              "description": null,
+              "description": "rh20t/rh20t_api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
         {
           "node_type": "item",
           "title": "Awesome-LLMs-for-Video-Understanding",
-          "description": null,
+          "description": "yunlong10/Awesome-LLMs-for-Video-Understanding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -583,7 +583,7 @@
         {
           "node_type": "item",
           "title": "LLMs Meet Multimodal Generation and Editing: A Survey",
-          "description": null,
+          "description": "YingqingHe/Awesome-LLMs-meet-Multimodal-Generation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -622,7 +622,7 @@
         {
           "node_type": "item",
           "title": "VLM-Eval: A General Evaluation on Video Large Language Models",
-          "description": null,
+          "description": "zyayoung/Awesome-Video-LLMs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:37:44.029Z",
+    "last_updated": "2026-10-03T04:27:38.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
