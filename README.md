@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 7,122 | 🐛 118 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 7,125 | 🐛 118 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -258,7 +258,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * <img width="911" alt="image" src="https://github.com/user-attachments/assets/833ab02e-3f2b-4f3f-8508-17b98c9dce06">
 
 * **RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot**
-  * [API](https://github.com/rh20t/rh20t_api) ⭐ 114 | 🐛 11 | 🌐 Python | 📅 2023-10-18
+  * [API](https://github.com/rh20t/rh20t_api) ⭐ 115 | 🐛 11 | 🌐 Python | 📅 2023-10-18
   * Hao-Shu Fang, Hongjie Fang, Zhenyu Tang, Jirong Liu, Chenxi Wang, Junbo Wang, Haoyi Zhu, Cewu Lu
   * [Paper](https://arxiv.org/abs/2307.00595)
   * [Website](https://rh20t.github.io/)
@@ -275,4 +275,4 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

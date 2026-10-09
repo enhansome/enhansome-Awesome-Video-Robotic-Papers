@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7122,
+                "stars": 7125,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -546,7 +546,7 @@
                 "open_issues": 11,
                 "owner": "rh20t",
                 "repo": "rh20t_api",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:23:51.097Z",
+    "last_updated": "2026-10-09T10:22:36.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
