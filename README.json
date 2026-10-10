@@ -118,7 +118,7 @@
                 "open_issues": 1,
                 "owner": "rail-berkeley",
                 "repo": "soar",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7125,
+                "stars": 7130,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2058,
+                "stars": 2059,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -571,8 +571,8 @@
             "id": 666960664,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-27T07:07:06Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-10T06:07:41Z",
+            "open_issues": 7,
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
             "stars": 3293,
@@ -593,7 +593,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-04-04T13:46:27Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "YingqingHe",
             "repo": "Awesome-LLMs-meet-Multimodal-Generation",
             "stars": 552,
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:22:36.643Z",
+    "last_updated": "2026-10-10T09:42:24.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
