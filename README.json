@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7134,
+                "stars": 7139,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -286,7 +286,7 @@
                 "open_issues": 1,
                 "owner": "cvlab-columbia",
                 "repo": "dreamitate",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2059,
+                "stars": 2061,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -546,7 +546,7 @@
                 "open_issues": 11,
                 "owner": "rh20t",
                 "repo": "rh20t_api",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:54:06.635Z",
+    "last_updated": "2026-10-12T10:37:11.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
