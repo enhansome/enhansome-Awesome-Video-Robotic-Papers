@@ -143,7 +143,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-31T00:26:15Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "octo-models",
                 "repo": "octo",
                 "stars": 1807,
@@ -227,10 +227,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-03-23T23:41:01Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7163,
+                "stars": 7169,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -571,8 +571,8 @@
             "id": 666960664,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-10T06:07:41Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-17T08:14:13Z",
+            "open_issues": 7,
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
             "stars": 3297,
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:41:39.884Z",
+    "last_updated": "2026-10-18T07:56:40.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
