@@ -146,7 +146,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7231,
+                "stars": 7237,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -406,7 +406,7 @@
                 "open_issues": 3,
                 "owner": "SudeepDasari",
                 "repo": "dit-policy",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2086,
+                "stars": 2087,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -490,7 +490,7 @@
                 "open_issues": 31,
                 "owner": "rail-berkeley",
                 "repo": "bridge_data_v2",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -575,7 +575,7 @@
             "open_issues": 7,
             "owner": "yoloytang",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3303,
+            "stars": 3304,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:17.993Z"
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T09:47:30.083Z",
+    "last_updated": "2026-10-30T09:52:18.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
