@@ -146,7 +146,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1819,
+                "stars": 1820,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7275,
+                "stars": 7278,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2094,
+                "stars": 2095,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -543,7 +543,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-18T11:09:50Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "rh20t",
                 "repo": "rh20t_api",
                 "stars": 116,
@@ -571,11 +571,11 @@
             "id": 666960664,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-27T09:14:07Z",
+            "last_commit": "2026-11-08T23:18:10Z",
             "open_issues": 8,
             "owner": "yoloytang",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3307,
+            "stars": 3308,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:17.993Z"
@@ -596,7 +596,7 @@
             "open_issues": 4,
             "owner": "YingqingHe",
             "repo": "Awesome-LLMs-meet-Multimodal-Generation",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "aigc",
               "large-language-models",
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:09:06.086Z",
+    "last_updated": "2026-11-09T11:17:48.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
