@@ -146,7 +146,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1821,
+                "stars": 1828,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7293,
+                "stars": 7298,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 56,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2095,
+                "stars": 2097,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -571,8 +571,8 @@
             "id": 666960664,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-08T23:18:10Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-11T11:53:50Z",
+            "open_issues": 7,
             "owner": "yoloytang",
             "repo": "Awesome-LLMs-for-Video-Understanding",
             "stars": 3308,
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T10:41:24.517Z",
+    "last_updated": "2026-11-12T10:53:26.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
