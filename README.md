@@ -98,7 +98,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * the Robot Learning Lab at Imperial College London
 
 * **Octo: An Open-Source Generalist Robot Policy**
-  * [Code](https://github.com/octo-models/octo) ⭐ 1,835 | 🐛 98 | 🌐 Python | 📅 2024-07-31
+  * [Code](https://github.com/octo-models/octo) ⭐ 1,839 | 🐛 98 | 🌐 Python | 📅 2024-07-31
   * Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
   * [Paper](https://arxiv.org/pdf/2405.12213)
   * [Website](https://octo-models.github.io/)
@@ -275,4 +275,4 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
