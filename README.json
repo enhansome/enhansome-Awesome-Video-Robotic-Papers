@@ -146,7 +146,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1844,
+                "stars": 1847,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -227,10 +227,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-03-23T23:41:01Z",
-                "open_issues": 118,
+                "open_issues": 117,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7308,
+                "stars": 7312,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -314,7 +314,7 @@
                 "open_issues": 9,
                 "owner": "bytedance",
                 "repo": "GR-1",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "research"
                 ]
@@ -434,7 +434,7 @@
                 "open_issues": 2,
                 "owner": "fuse-model",
                 "repo": "FuSe",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:57:26.796Z",
+    "last_updated": "2026-11-17T11:40:30.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",

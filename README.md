@@ -98,7 +98,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * the Robot Learning Lab at Imperial College London
 
 * **Octo: An Open-Source Generalist Robot Policy**
-  * [Code](https://github.com/octo-models/octo) ⭐ 1,844 | 🐛 98 | 🌐 Python | 📅 2024-07-31
+  * [Code](https://github.com/octo-models/octo) ⭐ 1,847 | 🐛 98 | 🌐 Python | 📅 2024-07-31
   * Dibya Ghosh, Homer Walke, Karl Pertsch, Kevin Black, Oier Mees, Sudeep Dasari, Joey Hejna, Tobias Kreiman, Charles Xu, Jianlan Luo, You Liang Tan, Lawrence Yunliang Chen, Pannag Sanketi, Quan Vuong, Ted Xiao, Dorsa Sadigh, Chelsea Finn, Sergey Levine
   * [Paper](https://arxiv.org/pdf/2405.12213)
   * [Website](https://octo-models.github.io/)
@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 7,308 | 🐛 118 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 7,312 | 🐛 117 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -153,7 +153,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Columbia University || Toyota Research Institute || Stanford University,
 
 * **Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**
-  * [Code](https://github.com/bytedance/GR-1) ⭐ 309 | 🐛 9 | 🌐 Python | 📅 2024-04-22
+  * [Code](https://github.com/bytedance/GR-1) ⭐ 310 | 🐛 9 | 🌐 Python | 📅 2024-04-22
   * Hongtao Wu, Ya Jing, Chilam Cheang, Guangzeng Chen, Jiafeng Xu, Xinghang Li, Minghuan Liu, Hang Li, Tao Kong
   * [Paper](https://arxiv.org/abs/2312.13139)
   * [Website](https://gr1-manipulation.github.io/)
@@ -204,7 +204,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * ![image](https://github.com/user-attachments/assets/f906d49c-c593-49ed-ad28-7bab2c1de349)
 
 * **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**
-  * [Code](https://github.com/fuse-model/FuSe) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2025-09-18
+  * [Code](https://github.com/fuse-model/FuSe) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2025-09-18
   * Joshua Jones\*, Oier Mees\*, Carmelo Sferrazza\*, Kyle Stachowicz, Pieter Abbeel, Sergey Levine
   * [Paper](https://arxiv.org/abs/2501.04693)
   * [Website](https://fuse-model.github.io/)
@@ -275,4 +275,4 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
