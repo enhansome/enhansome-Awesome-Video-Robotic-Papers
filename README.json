@@ -230,7 +230,7 @@
                 "open_issues": 117,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7326,
+                "stars": 7327,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -372,7 +372,7 @@
                 "open_issues": 5,
                 "owner": "flow-diffusion",
                 "repo": "AVDC",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -459,7 +459,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-05T23:45:27Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
                 "stars": 2101,
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:19:31.023Z",
+    "last_updated": "2026-11-21T10:52:35.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
