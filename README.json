@@ -146,7 +146,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1852,
+                "stars": 1855,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -230,7 +230,7 @@
                 "open_issues": 117,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7336,
+                "stars": 7341,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 57,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2102,
+                "stars": 2104,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -572,10 +572,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-11T11:53:50Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "yoloytang",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3311,
+            "stars": 3312,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:17.993Z"
@@ -596,7 +596,7 @@
             "open_issues": 3,
             "owner": "YingqingHe",
             "repo": "Awesome-LLMs-meet-Multimodal-Generation",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "aigc",
               "large-language-models",
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T12:12:27.713Z",
+    "last_updated": "2026-11-24T13:30:54.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
