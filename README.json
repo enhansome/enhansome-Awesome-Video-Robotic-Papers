@@ -146,7 +146,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1858,
+                "stars": 1859,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -230,7 +230,7 @@
                 "open_issues": 118,
                 "owner": "openvla",
                 "repo": "openvla",
-                "stars": 7352,
+                "stars": 7356,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -462,7 +462,7 @@
                 "open_issues": 57,
                 "owner": "google-deepmind",
                 "repo": "open_x_embodiment",
-                "stars": 2105,
+                "stars": 2106,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:17.993Z"
@@ -645,7 +645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T12:12:39.370Z",
+    "last_updated": "2026-11-27T11:59:36.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
