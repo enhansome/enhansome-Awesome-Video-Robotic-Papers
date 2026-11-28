@@ -126,7 +126,7 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
   * Google DeepMind || Carnegie Mellon University || University of Toronto
 
 * **OpenVLA: An Open-Source Vision-Language-Action Model**
-  * [Code](https://github.com/openvla/openvla) ⭐ 7,356 | 🐛 118 | 🌐 Python | 📅 2025-03-23
+  * [Code](https://github.com/openvla/openvla) ⭐ 7,358 | 🐛 118 | 🌐 Python | 📅 2025-03-23
   * Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
   * [Paper](https://arxiv.org/abs/2406.09246)
   * [Website](https://openvla.github.io/)
@@ -268,11 +268,11 @@ This repository compiles a list of seminal and cutting-edge papers that explore 
 
 ## Other Useful Sources
 
-* [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,312 | 🐛 8 | 📅 2026-11-11
+* [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,310 | 🐛 8 | 📅 2026-11-11
 * [LLMs Meet Multimodal Generation and Editing: A Survey](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ⭐ 551 | 🐛 3 | 🌐 HTML | 📅 2026-11-10
 * [VLM-Eval: A General Evaluation on Video Large Language Models](https://github.com/zyayoung/Awesome-Video-LLMs) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-01-20
 * [Awesome-VideoLLM-Papers](https://github.com/yyyujintang/Awesome-VideoLLM-Papers)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
